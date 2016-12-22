@@ -1,0 +1,19 @@
+{
+  "name": "db-loader",
+  "version": "0.0.1",
+  "description": "DB Loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiShiSangZi/db-loader.git"
+  },
+  "author": "gogocrow <jane19861227@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiShiSangZi/sequelize-loader/issues"
+  },
+  "homepage": "https://github.com/LiShiSangZi/sequelize-loader#readme"
+}
