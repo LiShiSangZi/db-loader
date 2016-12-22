@@ -1,6 +1,6 @@
 {
   "name": "db-loader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "DB Loader",
   "main": "index.js",
   "scripts": {
